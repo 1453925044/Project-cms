@@ -23,8 +23,8 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 后台首页
 
-![image](https://github.com/872822645/danxuankuangDemo/blob/master/1.jpg)
+![image](https://https://github.com/1453925044/Project-cms/static/images/index.png)
 
 商品详情管理
 
-![image](https://github.com/872822645/danxuankuangDemo/blob/master/1.jpg)
+![image](https://https://github.com/1453925044/Project-cms/static/images/shoplist.png)
